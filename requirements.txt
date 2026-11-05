@@ -1,0 +1,4 @@
+bcrypt
+tabulate
+termcolor
+terminaltexteffects
